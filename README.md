@@ -1,5 +1,9 @@
 # bsc-eth-bridge-test
 
 Аккаунты в тестовой сети Ropsten:
-1. 0xeDc5c0029309cA5576D452456228ca0B1fE8b9a3  приватный ключ: phrase clerk example verb board assist visual anxiety inside swift elite asthma.
-2. 
+
+1. 0xeDc5c0029309cA5576D452456228ca0B1fE8b9a3  приватный ключ: 21f83b0c1198ddb083dee50bceb1a26e81aa34cea16d73411b9b7253d200e9f3
+2. 0x6B84872eCB43705c75D60788982664328018cB77  приватный ключ: 3db7c322bb3587b270470432c02e8c9f40bff60b16f4106d6b14d2b028ddb317
+3. 0xb7e2E23DbCC863dD425b55f2F610AD49FEC9Ea22  приватный ключ: 33e8b18857bda6d4bf0ed551b2f0e73bf4ed5466df439b90346f2c51fc41aaad
+4. 0xF7A654cD7f8847D3433c55DE957e9a7ca390cF61  приватный ключ: 8f1973ac104244166e442fa1ea84a1972256301040ee918864f2c58bea574558
+5. 0xb1612a28bF71842B1Ee8473a08E2eBbe2F4151Df  приватный ключ: cad90612cad21a46ba45556f0906bf8e1e5064edfb872613a12449cbdc0d80e7
